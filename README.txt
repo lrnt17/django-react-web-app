@@ -196,3 +196,8 @@ put the loading indicator. make sure to import it
 #78 inside .choreo create endpoints.yaml then apply some codes
 #79 create Profile on ./backend - command to start executing our application - then apply necessary configs
 #80 run git init
+#81 run git add .
+#82 run git commit -m "first commit"
+#83 run git branch -M main
+#84 run git remote add origin https://github.com/lrnt17/django-react-web-app.git
+#85 run git push -u origin main
